@@ -1,3 +1,13 @@
+# 💫 Hi 👋, I'm Nakul Indurkar
+**A passionate Java Developer**
+
+Email Me 👉 ✉️ **nakulindurkar3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Bank Management System Project 
+- 🌱 **I’m currently learning:** SpringBoot
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** nakulindurkar3@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nakul_indurkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nakulindurkar3@gmail.com) 
