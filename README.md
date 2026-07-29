@@ -1,9 +1,8 @@
-# 💫 Hi 👋, I'm Nakul Indurkar
+#  Hi 👋, I'm Nakul Indurkar
 **A passionate Java Developer**
 
-Email Me 👉 ✉️ **nakulindurkar3@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **nakulindurkar3@gmail.com** For Collaboration/Project or Anything Else. 
 
-- 🔭 **I’m currently working on:** Bank Management System Project 
 - 🌱 **I’m currently learning:** SpringBoot
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** nakulindurkar3@gmail.com
